@@ -19,3 +19,8 @@ target/
 # Added by cargo
 
 /target
+
+# Application
+/logs
+/state
+/element-keys.txt
